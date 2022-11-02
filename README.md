@@ -1,3 +1,27 @@
+# Proyecto ejemplo react Test Driven Development
+
+El TDD es una metodología de trabajo que consiste en:
+
+1. Plantear los requisitos del proyecto
+
+2. Redacción de las pruebas unitarias
+
+3. Implementación y refactorización siguiendo TDD
+
+4. Obteniendo coverage
+
+5. Buenas prácticas en el testing e introducción al TDD
+
+Utilizamos Radio Browser api publica sacada de un listado de github muy interesante llamado public-apis
+
+## Tarea Lección 12
+¡Tenemos un nuevo requerimiento por parte del cliente! Debemos implementarlo utilizando TDD Cliente: "Necesito que la aplicación muestre por defecto un mensaje cuando todavía no se ha realizado ninguna búsqueda, este mensaje debe decir: Busca tus emisoras favoritas"
+
+1. Crea dos test cases diferentes para este nuevo requerimiento
+2. Haz que ambos casos de test salgan fallidos
+3. Crea la funcionalidad correspondiente para que estos casos de test pasen
+4. Lanza los tests y haz que pasen todos (también los que ya teníamos)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
